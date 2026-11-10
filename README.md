@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=checkered&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 👋 Hi, I'm Javier Zataraín!
 💻 Software Developer | 🚀 AI Enthusiast 
