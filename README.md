@@ -26,22 +26,39 @@
 <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,html,css,js,gitlab,github,docker&perline=10" />
 
 </div>
+<h2>🛠️ Technologies & Tools</h2>
 
-🎮 A little animation
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" align="center">
+
+### 💻 Main Technologies
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,html,css,js,gitlab,github,docker&perline=5" />
+
+### ⚙️ Other Technologies
+
+<img src="https://skillicons.dev/icons?i=linux,bash,vscode,postman,redis&perline=5" />
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 </div>
-
-📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Javizata&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javizata&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
