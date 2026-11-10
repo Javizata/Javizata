@@ -54,11 +54,55 @@
 
 </div>
 
-<div align="center">
+<h2 align="center">🚀 Featured Projects</h2>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<div align="center"> <table> <tr> <td width="50%" align="center">
 
-</div>
+🤖 Sentiment Analysis
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white"/>
+
+NLP application for sentiment classification using machine learning techniques.
+
+<a href="https://github.com/Javizata/REPOSITORY_1"> <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+<td width="50%" align="center">
+
+⚡ Automation Tools
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+
+A collection of Python tools and applications designed to automate workflows and improve efficiency.
+
+<a href="https://github.com/Javizata/REPOSITORY_2"> <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td> </tr>
+
+<tr> <td width="50%" align="center">
+
+🧠 Neural Networks
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat&logo=openai&logoColor=white"/>
+
+Experiments with neural networks, starting with simple architectures and exploring deep learning concepts.
+
+<a href="https://github.com/Javizata/REPOSITORY_3"> <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+<td width="50%" align="center">
+
+🛠️ More Projects
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+
+More projects, experiments and personal developments coming soon!
+
+<a href="https://github.com/Javizata?tab=repositories"> <img src="https://img.shields.io/badge/Explore_All_Projects-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td> </tr> </table> </div>
 
 </div>
 
@@ -78,7 +122,4 @@
 <div align="center">
 
 ✨ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=100&section=footer"/>
-
 </div>
