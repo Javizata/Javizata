@@ -12,20 +12,13 @@
 
 </div>
 
-👨‍💻 About Me <br>
-🔭 I'm currently working on a multinational automotive company.<br>
+<h2>🔭 About Me:</h2>
+⚡ I'm currently working on a multinational automotive company.<br>
 🌱 I work mostly on python developing apps and software solutions to improve the efficiency.<br>
 💡 I have a bachelor's degree in computer engineering and im learning ML and AI technologies.<br>
 🎯 My goal is to become a better developer creating my own repositories and learning the whole programming picture.
 
 
-🛠️ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,html,css,js,gitlab,github,docker&perline=10" />
-
-</div>
 <h2>🛠️ Technologies & Tools</h2>
 
 <div align="center">
