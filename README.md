@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<table> <tr> <td width="60%" align="center" valign="middle">
+<table> <tr style="border: none;"> <td width="60%" align="center" valign="middle" style="border: none;">
 
 <h1> Hi, I'm Javier Zataraín! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </h1>
 
-</td>
+</td style="border: none;">
 
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle"style="border: none;">
 
 <img src="./programador_typing.gif"/>
 </td> </tr> </table>
@@ -27,9 +27,9 @@ Software Developer focused on Python, backend development and software automatio
 
 <div align="center">
 
-<table> <tr>
+<table> <tr style="border: none;">
 
-<td width="60%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle" style="border: none;">
 
 💻 Main Technologies
 
@@ -37,7 +37,7 @@ Software Developer focused on Python, backend development and software automatio
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="border: none;">
 
 ⚙️ Other Technologies
 
