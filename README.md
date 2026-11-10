@@ -119,29 +119,6 @@ More projects, experiments and personal developments coming soon!
 <img src="https://img.shields.io/badge/Neural_Networks-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative_AI-6A5ACD?style=for-the-badge"/>
 
 </div>
-
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
-📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javizata&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-📊 GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Javizata&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javizata&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <!-- ==================== CONTACT ==================== -->
 
 🌐 Connect with me
