@@ -2,18 +2,27 @@
 
 <div align="center">
 
-<table> <tr style="border: none;"> <td width="60%" align="center" valign="middle" style="border: none;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" align="center" valign="middle" style="border: none;">
 
-<h1> Hi, I'm Javier Zataraín! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </h1>
+<h1>
+Hi, I'm Javier Zataraín!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+</h1>
 
-</td style="border: none;">
+</td>
 
-<td width="40%" align="center" valign="middle"style="border: none;">
+<td width="40%" align="center" valign="middle" style="border: none;">
 
 <img src="./programador_typing.gif"/>
-</td> </tr> </table>
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 <!-- ==================== ABOUT ME ==================== -->
 
