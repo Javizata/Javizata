@@ -30,7 +30,7 @@
 
 ### ⚙️ Other Technologies
 
-<img src="https://skillicons.dev/icons?i=linux,bash,vscode,postman,redis&perline=5" />
+<img src="https://skillicons.dev/icons?i=linux,bash,tensorflow,sklearn,pytorch,graphql,figma,githubactions&perline=4" />
 
 </td>
 
