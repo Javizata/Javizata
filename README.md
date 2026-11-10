@@ -7,11 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%9A%80+AI+Enthusiast"/>
 
 </div>
+👨‍💻 About Me
 
-🔭 About Me
-
-⚡ Working at a multinational automotive company.<br> 🌱 Developing Python applications and software solutions to improve efficiency.<br> 💡 Bachelor's degree in Computer Engineering | Exploring Machine Learning & AI.<br> 🎯 Building projects and learning the programming ecosystem, from neural networks to full-scale AI applications.
-
+Software Developer focused on Python, backend development and software automation. 🎓 Computer Engineering graduate, currently exploring Machine Learning and AI, building projects from neural networks to real-world AI applications. 🚀
 🛠️ Technologies & Tools
 
 <div align="center">
