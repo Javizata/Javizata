@@ -92,8 +92,6 @@ More projects, experiments and personal developments coming soon!
 
 </div>
 
-<!-- ==================== CURRENTLY LEARNING ==================== -->
-
 🧠 Currently Exploring
 
 <div align="center">
@@ -102,44 +100,9 @@ More projects, experiments and personal developments coming soon!
 
 </div>
 
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
-📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javizata&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-📊 GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Javizata&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javizata&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<!-- ==================== CONTACT ==================== -->
-
 🌐 Connect with me
 
 <div align="center">
 
 <a href="https://github.com/Javizata" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<br><br>
-
-<i>"Always learning, always building."</i> 🚀
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=90&section=footer" width="100%"/>
-
-</div>
