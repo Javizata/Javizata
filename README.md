@@ -23,14 +23,44 @@
 <table>
 <tr>
 <td width="60%" align="center">
+<h3 align="center">🛠️ Main Technologies</h3>
 
-### 💻 Main Technologies
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,html,css,js,gitlab,github,docker&perline=5" />
-
-### ⚙️ Other Technologies
-
-<img src="https://skillicons.dev/icons?i=linux,bash,tensorflow,sklearn,pytorch,graphql,figma,githubactions&perline=4" />
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gitlab" width="45"/><br>GitLab
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
+</td>
+</tr>
+</table>
 
 </td>
 
