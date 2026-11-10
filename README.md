@@ -1,8 +1,10 @@
 <!-- BANNER -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Hi,%I'm%Javier%Zataraín!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<h1 align="center">
+  Hi, I'm Javier Zataraín! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 💻 Software Developer | 🚀 AI Enthusiast 
 
@@ -12,7 +14,7 @@
 
 👨‍💻 About Me <br>
 🔭 I'm currently working on a multinational automotive company.<br>
-🌱 I work mostly on python developing apps and software solutions to improve the efficiency and delays in the company.<br>
+🌱 I work mostly on python developing apps and software solutions to improve the efficiency.<br>
 💡 I have a bachelor's degree in computer engineering and im learning ML and AI technologies.<br>
 🎯 My goal is to become a better developer creating my own repositories and learning the whole programming picture. Starting from simpe things as 2 neuron neural networks to full-scale Sentiment clasification apps.
 
@@ -46,10 +48,13 @@
 🌐 Connect with me
 
 <div align="center">
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+  
+<a href="https://github.com/Javizata/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
