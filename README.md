@@ -2,19 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Hi, I'm Javier Zataraín!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-👋 Hi, I'm Javier Zataraín!
 💻 Software Developer | 🚀 AI Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Always+learning+new+technologies" />
 
 </div>
 
-👨‍💻 About Me
-🔭 I'm currently working on a multinational automotive company.
-🌱 I work mostly on python developing apps and software solutions to improve the efficiency and delays in the company.
-💡 I have a bachelor's degree in computer engineering and im learning ML and AI technologies.
+👨‍💻 About Me <br>
+🔭 I'm currently working on a multinational automotive company.<br>
+🌱 I work mostly on python developing apps and software solutions to improve the efficiency and delays in the company.<br>
+💡 I have a bachelor's degree in computer engineering and im learning ML and AI technologies.<br>
 🎯 My goal is to become a better developer creating my own repositories and learning the whole programming picture. Starting from simpe things as 2 neuron neural networks to full-scale Sentiment clasification apps.
 
 
