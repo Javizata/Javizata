@@ -6,15 +6,34 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%9A%80+AI+Enthusiast;%F0%9F%90%8D+Python+Developer"/>
 
-<img src="./programador_typing.gif" width="280" alt="Programmer animation"/>
+<!-- ==================== ABOUT ME + GIF ==================== -->
+
+<div align="center">
+
+<table> <tr> <td width="60%" valign="middle">
+
+<h2>👨‍💻 About Me</h2>
+
+Software Developer focused on Python, backend development and software automation.
+
+🎓 Computer Engineering graduate.
+
+🌱 Currently exploring Machine Learning and AI.
+
+🚀 Building projects ranging from neural networks to real-world AI applications.
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="./programador_typing.gif" width="260" alt="Programmer animation"/>
+
+</td> </tr> </table>
 
 </div>
 
-<!-- ==================== ABOUT ME ==================== -->
+</div>
 
-👨‍💻 About Me
-
-Software Developer focused on Python, backend development and software automation. 🎓 Computer Engineering graduate, currently exploring Machine Learning and AI, building projects from neural networks to real-world AI applications. 🚀
 
 <!-- ==================== TECHNOLOGIES ==================== -->
 
