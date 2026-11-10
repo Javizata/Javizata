@@ -10,27 +10,34 @@
 
 <div align="center">
 
-<table> <tr> <td width="60%" valign="middle">
+<table>
+<tr>
+<td width="60%" valign="middle" style="border: 0 !important;">
 
-<h2>👨‍💻 About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
+<p align="left">
 Software Developer focused on Python, backend development and software automation.
-
+<br><br>
 🎓 Computer Engineering graduate.
-
+<br>
 🌱 Currently exploring Machine Learning and AI.
-
+<br>
 🚀 Building projects ranging from neural networks to real-world AI applications.
+</p>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="border: 0 !important;">
 
 <img src="./programador_typing.gif" width="260" alt="Programmer animation"/>
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
 </div>
+
 
 </div>
 
