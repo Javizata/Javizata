@@ -16,7 +16,7 @@
 🔭 I'm currently working on a multinational automotive company.<br>
 🌱 I work mostly on python developing apps and software solutions to improve the efficiency.<br>
 💡 I have a bachelor's degree in computer engineering and im learning ML and AI technologies.<br>
-🎯 My goal is to become a better developer creating my own repositories and learning the whole programming picture. Starting from simpe things as 2 neuron neural networks to full-scale Sentiment clasification apps.
+🎯 My goal is to become a better developer creating my own repositories and learning the whole programming picture.
 
 
 🛠️ Technologies & Tools
